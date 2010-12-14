@@ -1,0 +1,5 @@
+= Delayed Load
+
+== Overview
+
+Delayed Load allows to cleanly delay loading of libraries,
