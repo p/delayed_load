@@ -1,4 +1,6 @@
 # DelayedLoad - cleanly delay loading of libraries,
+#
+# Please see README.rdoc for usage including important caveats.
 module DelayedLoad
   extend self
   
