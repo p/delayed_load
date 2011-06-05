@@ -4,6 +4,12 @@
 
 Delayed Load allows to cleanly delay loading of libraries,
 
+== Installation
+
+As a rails plugin:
+
+    script/plugin install git://github.com/p/delayed_load.git
+
 == Usage
 
 Please also see Important Caveat and Working Example sections below.
